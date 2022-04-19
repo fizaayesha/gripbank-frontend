@@ -1,0 +1,11 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 16px;
+    background: rgb(37, 37, 41);
+    color: white;
+    font-weight: bolder;
+    margin-top:0rem;
+}
